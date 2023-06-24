@@ -36,6 +36,10 @@ To generate Shakespearean-style text, the model takes a seed sequence as input a
 To run this project, open [`Shakespearean_Text_Prediction.ipynb`](https://github.com/Ishwin9/text-prediction/blob/main/Shakespearean_Text_Prediction.ipynb) on google collab. Run each cell there to train the model and then deploy on flask. Demo of the project is as follows:
 
 
+https://github.com/Ishwin9/text-prediction/assets/94800627/c3bc1061-1a6d-4e52-910d-855ff67ad743
+
+
+
 ## Contributing
 
 Contributions to this project are welcome. If you have any ideas or improvements, feel free to open an issue or submit a pull request.
